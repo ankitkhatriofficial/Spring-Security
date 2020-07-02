@@ -6,7 +6,7 @@ _________________________________________________________
 
  1) Download this Project
  2) Unzip the Project
- 3) You will get SQL_File.sql file, open your database(mysql) and run these commands written in this .sql file or simply import this .sql file to you database and execute it.
+ 3) You will get SQL_File.sql file, open your database(mysql) and run these commands written in this .sql file or simply import this .sql file to your database and execute it.
  4) Once when the Database is ready and all records are inserted Successfully, Open your IDE (Eclipse, Netbeans, IntelliJ, etc) 
  5) Go to import section and import this project as "existing maven Project"
  6) Once when the IDE sets up everything and build maven project automatically for you, Go to src/main/java/com/Demo/SpringSecurity and open "SpringSecurityApplication.java"           file in IDE
